@@ -1,1 +1,2 @@
 # Machine-Learning-with-Andrew-Ng
+This repo is based off of the coursera Machine Learning course with Andrew Ng. Instead of using octave or matlab it uses python with numpy, pandas, scikit-learn and matplotlib. There are a lot of resources out there with python examples. This repo are notes and code to help me learn machine learning by organize the info I find online. Maybe this will be helpful for other students taking the same course as well. sourcs are cited in each notebook.
